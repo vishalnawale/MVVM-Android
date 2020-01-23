@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="bg_color1">#ff081620</color>
+    <color name="bg_color2">#ffbfc7cc</color>
+    <color name="bg_color3">#fff5f5f5</color>
+    <color name="bg_color4">#ff33b5e5</color>
+    <color name="blue2">#ff19fcda</color>
+    <color name="blue25">#ffd9f7f2</color>
+    <color name="grad_color_end">#00ffffff</color>
+    <color name="grad_color_start">#28ffffff</color>
+    <color name="grey05">#ffaca899</color>
+    <color name="line_color1">#2effffff</color>
+    <color name="line_color2">#9e000000</color>
+    <color name="line_color3">#40000000</color>
+    <color name="orange4">#fff7be45</color>
+    <color name="orange5">#fff7d896</color>
+    <color name="swipeassist_background_select_overlay">#99000000</color>
+    <color name="swipeassist_default_theme_color">#bdffd200</color>
+    <color name="swipeassist_disallowed_dock">#ff000000</color>
+    <color name="swipeassist_replaceable_pixel_color">#e3ffd200</color>
+    <color name="swipeassist_text_full_screen">#bf000000</color>
+    <color name="swipeassist_text_select_overlay">#fff5f5f5</color>
+    <color name="transparent">#00000000</color>
+    <color name="white1">#ffffffff</color>
+    <color name="white2">#ffdddddd</color>
+    <color name="yellow">#ffffff00</color>
+    <color name="yellow1">#fff9e60e</color>
+    <color name="yellow2">#fff9f89d</color>
+</resources>
